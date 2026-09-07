@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hello World! I'm John<br><br>🤖 AI/ML Enthusiast | 💻 Developer | 🚀 Builder | 💻 Full-Stack Explorer<br><br>🧠 Building AI-powered solutions for real-world problems<br>🌐 Creating web applications and AI-integrated projects<br>👁️ Exploring Computer Vision, OpenCV & Medical AI<br>🔗 Connecting ML models with modern web applications<br><br>🐍 Python | C++ | JavaScript | HTML | CSS<br>⚙️ Git & GitHub | VS Code | REST APIs | Firebase | Deployment<br>🎨 Figma | UI/UX | Prototyping<br>🔌 Exploring IoT & ESP32<br><br>🏥 Currently building Retina AI — an AI-based healthcare project<br>🔬 Interested in Machine Learning, Computer Vision & intelligent systems<br>🌱 Learning by building, breaking, and rebuilding<br><br>🚀 Build. Learn. Deploy. Repeat.
 
 
