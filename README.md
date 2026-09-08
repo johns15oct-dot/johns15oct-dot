@@ -1,6 +1,31 @@
 👋 Hello World! I'm John<br><br>🤖 AI/ML Enthusiast | 💻 Developer | 🚀 Builder | 💻 Full-Stack Explorer<br><br>🧠 Building AI-powered solutions for real-world problems<br>🌐 Creating web applications and AI-integrated projects<br>👁️ Exploring Computer Vision, OpenCV & Medical AI<br>🔗 Connecting ML models with modern web applications<br><br>🐍 Python | C++ | JavaScript | HTML | CSS<br>⚙️ Git & GitHub | VS Code | REST APIs | Firebase | Deployment<br>🎨 Figma | UI/UX | Prototyping<br>🔌 Exploring IoT & ESP32<br><br>🏥 Currently building Retina AI — an AI-based healthcare project<br>🔬 Interested in Machine Learning, Computer Vision & intelligent systems<br>🌱 Learning by building, breaking, and rebuilding<br><br>🚀 Build. Learn. Deploy. Repeat.
 
+# 📊 GitHub Stats:
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johns15oct-dot&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="johns15oct-dot stats" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=johns15oct-dot&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=johns15oct-dot&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johns15oct-dot&theme=react-dark&hide_border=true" alt="Activity Graph" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=johns15oct-dot&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=johns15oct-dot&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/ufNQ5ZRH) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jhxwik?stkn=MWJmc3M2MG1rcTJrMQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/john-s-557b3b377?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/3SUyfsuLc) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/jhnwkx1455) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johns15oct@gmail.com) 
 
