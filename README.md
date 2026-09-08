@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+John+%F0%9F%91%8B;AI%2FML+Enthusiast+%F0%9F%A4%96;Building+Retina+AI+%F0%9F%8F%A5;Learning+by+Building+%26+Breaking+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+John+S+%F0%9F%91%8B;AI%2FML+Enthusiast+%F0%9F%A4%96;Software+Developer+%F0%9F%92%BB;Computer+Vision+Explorer+%F0%9F%91%81%EF%B8%8F;Building+AI-Powered+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
 
 
 👋 Hello World! I'm John<br><br>🤖 AI/ML Enthusiast | 💻 Developer | 🚀 Builder | 💻 Full-Stack Explorer<br><br>🧠 Building AI-powered solutions for real-world problems<br>🌐 Creating web applications and AI-integrated projects<br>👁️ Exploring Computer Vision, OpenCV & Medical AI<br>🔗 Connecting ML models with modern web applications<br><br>🐍 Python | C++ | JavaScript | HTML | CSS<br>⚙️ Git & GitHub | VS Code | REST APIs | Firebase | Deployment<br>🎨 Figma | UI/UX | Prototyping<br>🔌 Exploring IoT & ESP32<br><br>🏥 Currently building Retina AI — an AI-based healthcare project<br>🔬 Interested in Machine Learning, Computer Vision & intelligent systems<br>🌱 Learning by building, breaking, and rebuilding<br><br>🚀 Build. Learn. Deploy. Repeat.
