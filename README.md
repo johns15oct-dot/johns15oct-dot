@@ -14,7 +14,7 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/3SUyfsuLc)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jhnwkx1455)
 [![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?logo=spotify&logoColor=white)](https://open.spotify.com/user/7qf5qb38djsi4d20r3v2m6jw6?si=10ec43ff8efc4b1bK)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johns15oct@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=johns15oct@gmail.com)
 [![Unstop](https://img.shields.io/badge/Unstop-%23006FFF.svg?logo=unstop&logoColor=white)](https://unstop.com/u/johns7860)
 
 # 💻 Tech Stack:
