@@ -1,4 +1,183 @@
-👋 Hello World! I'm John<br><br>🤖 AI/ML Enthusiast | 💻 Developer | 🚀 Builder | 💻 Full-Stack Explorer<br><br>🧠 Building AI-powered solutions for real-world problems<br>🌐 Creating web applications and AI-integrated projects<br>👁️ Exploring Computer Vision, OpenCV & Medical AI<br>🔗 Connecting ML models with modern web applications<br><br>🐍 Python | C++ | JavaScript | HTML | CSS<br>⚙️ Git & GitHub | VS Code | REST APIs | Firebase | Deployment<br>🎨 Figma | UI/UX | Prototyping<br>🔌 Exploring IoT & ESP32<br><br>🏥 Currently building Retina AI — an AI-based healthcare project<br>🔬 Interested in Machine Learning, Computer Vision & intelligent systems<br>🌱 Learning by building, breaking, and rebuilding<br><br>🚀 Build. Learn. Deploy. Repeat.
+<!-- =========================================================
+     TOP ANIMATED HEADER
+========================================================= -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:312E81,100:0EA5E9&text=JOHN&fontColor=FFFFFF&fontSize=65&fontAlignY=42&animation=fadeIn&desc=AI%2FML%20ENTHUSIAST%20%7C%20DEVELOPER%20%7C%20BUILDER%20%7C%20FULL-STACK%20EXPLORER&descAlignY=67&descSize=17"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <b>Turning ideas into intelligent systems.</b>
+</p>
+
+<br>
+
+<!-- =========================================================
+     MAIN PROFILE BOX
+========================================================= -->
+
+<table align="center">
+<tr>
+
+<!-- =========================================================
+     LEFT PROFILE
+========================================================= -->
+
+<td width="30%" valign="top" align="center">
+
+<br>
+
+<img
+  src="https://github.com/johns15oct-dot.png"
+  width="180"
+  height="180"
+  style="border-radius:50%;"
+  alt="Johnwick Profile"
+/>
+
+<br><br>
+
+<h2>Johnwick</h2>
+
+<p>
+  <b>@johns15oct-dot</b>
+</p>
+
+<hr>
+
+<p>🤖 <b>AI/ML Enthusiast</b></p>
+<p>💻 <b>Developer</b></p>
+<p>🚀 <b>Builder</b></p>
+<p>🌐 <b>Full-Stack Explorer</b></p>
+
+<hr>
+
+<p>📍 <b>India</b></p>
+
+<p>🎓 <b>B.E. Mechanical</b></p>
+
+<p>👁️ <b>Computer Vision</b></p>
+
+<p>🤖 <b>AI/ML</b></p>
+
+<br>
+
+</td>
+
+
+<!-- =========================================================
+     RIGHT CONTENT
+========================================================= -->
+
+<td width="70%" valign="top">
+
+<h1>👋 Hello World! I'm John</h1>
+
+<p>
+🤖 <b>AI/ML Enthusiast</b>
+&nbsp; | &nbsp;
+💻 <b>Developer</b>
+&nbsp; | &nbsp;
+🚀 <b>Builder</b>
+&nbsp; | &nbsp;
+🌐 <b>Full-Stack Explorer</b>
+</p>
+
+<hr>
+
+<h2>🧠 About Me</h2>
+
+<p>
+🧠 Building AI-powered solutions for real-world problems
+</p>
+
+<p>
+🌐 Creating web applications and AI-integrated projects
+</p>
+
+<p>
+👁️ Exploring Computer Vision & OpenCV
+</p>
+
+<p>
+🔗 Connecting ML models with modern web applications
+</p>
+
+<br>
+
+<hr>
+
+<h2>🛠️ Technologies & Tools</h2>
+
+<p>
+🐍 <b>Python</b>
+&nbsp; | &nbsp;
+⚡ <b>C++</b>
+&nbsp; | &nbsp;
+🌐 <b>JavaScript</b>
+&nbsp; | &nbsp;
+🏗️ <b>HTML</b>
+&nbsp; | &nbsp;
+🎨 <b>CSS</b>
+</p>
+
+<p>
+⚙️ <b>Git & GitHub</b>
+&nbsp; | &nbsp;
+💻 <b>VS Code</b>
+&nbsp; | &nbsp;
+🔗 <b>REST APIs</b>
+&nbsp; | &nbsp;
+🔥 <b>Firebase</b>
+&nbsp; | &nbsp;
+🚀 <b>Deployment</b>
+</p>
+
+<p>
+🎨 <b>Figma</b>
+&nbsp; | &nbsp;
+🖥️ <b>UI/UX</b>
+&nbsp; | &nbsp;
+✏️ <b>Prototyping</b>
+</p>
+
+<p>
+🔌 <b>Exploring IoT & ESP32</b>
+</p>
+
+<br>
+
+<hr>
+
+<h2>🏥 Current Project</h2>
+
+<p>
+🏥 Currently building <b>Retina AI</b> — an AI-based healthcare project
+</p>
+
+<p>
+🔬 Interested in Machine Learning, Computer Vision & intelligent systems
+</p>
+
+<p>
+🌱 Learning by building, breaking, and rebuilding
+</p>
+
+<br>
+
+<hr>
+
+<p align="center">
+  <b>🚀 Build. Learn. Deploy. Repeat.</b>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 
 ## 🌐 Socials:
